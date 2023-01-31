@@ -1,0 +1,23 @@
+.movie {
+	background-color: rgba(0, 0, 0, 0.6);
+	box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+	transition: all 0.3s;
+	border-radius: 20px;
+	overflow: hidden;
+	position: relative;
+}
+
+.movie:hover {
+	transform: scale(1.1);
+	color: rgba(255, 255, 255, 1);
+	box-shadow: 0 5px 40px rgba(145, 92, 182, 0.4);
+	z-index: 1;
+}
+
+.movie img {
+	width: 220px;
+	height: 350px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

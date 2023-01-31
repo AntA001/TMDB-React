@@ -1,0 +1,33 @@
+Greetings Syntax Technical Team!!!
+
+First and foremost, thank you for taking the time to look at my application and generally for your consideration.
+
+It was a blast spending the day working on this project!
+
+Starting, I have to explain the logic behind some major decisions that I took. Initially, at my first interview, I was told that I would be given the choice to work on either the React or Angular frameworks.
+Even though I have worked professionally with both, my React experience is a bit more recent and in-depth. Unfortunately last minute I was told that Angular would be the preferred framework, but I have already mentally committed to React,
+and felt more comfortable completing the assignment with it taking into account the tight time constraints.
+
+The second initiative I took had to do with the Movie API used. In the paper I received, OMDB was mentioned as the API that had to be used. After spending some time working with it I concluded that it would not be the optimal choice to 
+support the creation of an application the way I had it in my mind. That is because OMDB does not offer any API endpoints other than search-related ones. I felt like a single simple search bar as a main page would be too bland. I wanted 
+a way to populate the list of movies with the currently trending movies before the user has searched for anything. And of course, auto update that lists once the user starts typing in the search bar. For those reasons I opted for the 
+TMDB API instead, which is a similar open source free to uses API that offers all the endpoints that I needed to realize my idea.
+
+The third clarification has to do with material UI. I opted to create a purely custom solution to better showcase my abilities to design and write front-end code myself, instead of using ready-to-use UI elements.
+Of course in production and real life using material or finding shortcuts is key to success but in my head, this assignment is more like a skill demo rather than a real-life project.
+
+Arriving at the app itself, I feel really good about how the UI/UX of the main page turned out. I find it nice and modern looking, with just enough animations and effects to keep it cool but not tiring to the eye. I opted for an SPA. I felt
+like redirection in such a simple app would not be ideal for its usability.
+
+Things that could have been improved further given the time are:
+1. The details page: It's ok the way it is, simplicity is good in my opinion, but it's a bit too simple even for my taste. it can fit a bit more detail about the movie and also I am not 100% happy with its current layout.
+2. Mobile Friendliness: There was simply not enough time to optimize the app for mobile devices. There is definitely a lot of room for improvement there (Especially on the movie details page which does not scale great in portrait)
+3. Finally, of course adding extra features, like the watchlist that was mentioned in the doc, would also be good. Unfortunately, I didn't find the time to implement such features. I instead decided to dedicate my time to refine
+as much as possible the features I have already implemented instead of adding new ones. In my head, it's better to have 2 refined things instead of 4 half-completed ones.
+
+Overall it was a great experience, I had a ton of fun. Being a cinephile myself, I feel like I will definitely revisit this project soon to give it some more care and complete my vision!
+
+I will be really happy to answer any specific questions about my implementation and of course, hopefully, get to work with you soon. I am confident that you will not regret the decision of bringing abord to your team!
+
+Best regards,
+Antonios Antoniadis
